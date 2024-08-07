@@ -1,13 +1,21 @@
 {
-  "name": "buttons-package",
+  "name": "buttons-package-codeankitanime",
   "version": "1.0.0",
   "description": "A customizable button with CSS animations, created using CSS-in-JS.",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "test": "node start"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Ankit Jatav",
+  "license": "LICENSE",
+  "keywords": [
+    "button",
+    "CSS",
+    "animations",
+    "CSS-in-JS",
+    "React",
+    "customizable"
+  ],
   "dependencies": {
     "prop-types": "^15.8.1",
     "react": "^18.3.1"
