@@ -1,0 +1,15 @@
+{
+  "name": "buttons-package",
+  "version": "1.0.0",
+  "description": "A customizable button with CSS animations, created using CSS-in-JS.",
+  "main": "app.js",
+  "scripts": {
+    "test": "node start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prop-types": "^15.8.1",
+    "react": "^18.3.1"
+  }
+}
