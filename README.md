@@ -1,4 +1,7 @@
 # buttons-package-codeankitanime
+[![npm version](https://img.shields.io/npm/v/buttons-package-codeankitanime)](https://www.npmjs.com/package/buttons-package-codeankitanime)
+
+
 
 A customizable button with CSS animations, created using CSS-in-JS.
 
@@ -8,6 +11,7 @@ To install the package, run:
 
 ```sh
 npm install buttons-package-codeankitanime
+```
 
 ## Usage
 
